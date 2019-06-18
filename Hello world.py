@@ -1,1 +1,7 @@
 print("привет мир")
+print("ghbdtn me")
+print("ghbdtn me")
+print("ghbdtn me")
+print("ghbdtn me")
+print("ghbdtn me")
+print("ghbdtn me")
