@@ -18,7 +18,9 @@ examine the history and state (see also: git help revisions)
    status     Show the working tree status
 
 grow, mark and tweak your common history
-   branch     List, create, or delete branches
+   BRANCH   List, create, or delete branches
+=======
+ Branch     List, create, or delete branches
    checkout   Switch branches or restore working tree files
    commit     Record changes to the repository
    diff       Show changes between commits, commit and working tree, etc
